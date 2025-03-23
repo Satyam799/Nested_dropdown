@@ -5,10 +5,10 @@
 }
 
 .dropdown1{
-    height: 100%;
+    height: auto;
     display: flex;
     justify-content: center;
-    width: 10%;
+    width: autos;
     align-items:flex-end;
     position: relative;
     
@@ -22,6 +22,12 @@
     background-color: aquamarine;
 }
 
+.management{
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-end;
+}
 .dropdown2{
     position: absolute;
     top: 100%;

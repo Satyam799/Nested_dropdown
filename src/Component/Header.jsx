@@ -5,7 +5,6 @@ function Header() {
 
     const [dropdwon1,setdropdown1]=useState(false)
     const [dropdown2,setdropdown2]=useState(false)
-    const [dropdown3,setdropdown3]=useState(false)
 
 
   return (

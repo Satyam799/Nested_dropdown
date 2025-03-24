@@ -4,7 +4,7 @@ import "./Header.css";
 function Header() {
   const [dropdwon1, setdropdown1] = useState(false);
   const [dropdown2, setdropdown2] = useState(false);
-  console.log('hi')
+  console.log('hi2')
   return (
     <div className="Heaader">
       <div className="management">
